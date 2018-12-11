@@ -15,6 +15,7 @@ body{
     }
 }
 
+/* Header style */
 header{
     background-image:linear-gradient(
         rgba(255, 255, 255, 0.3), 
@@ -52,4 +53,11 @@ h1{
     h1{
         font-size: 40px;
     }
+}
+
+/* About Me section */
+.about-me{
+    background-color: #cbdde1;
+    height: 80vh;
+    margin-top: -20vh;
 }
