@@ -23,4 +23,16 @@ header{
     background-size: cover;
     height: 50vh;
     clip-path: polygon(0 0,100% 0 ,100% 70%, 50% 99% , 0 70%);
+    position: relative;
+}
+
+nav{
+    margin: 6px;
+}
+
+h1{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
