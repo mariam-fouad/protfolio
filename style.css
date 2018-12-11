@@ -1,5 +1,9 @@
 header{
-    background-image: url("./assets/andrew-ridley-76547-unsplash.jpg");
+    background-image:linear-gradient(
+        rgba(255, 255, 255, 0.3), 
+        rgba(255, 255, 255, 0.3)
+      ), url("./assets/andrew-ridley-76547-unsplash.jpg");
+    
     background-size: cover;
     height: 50vh;
     clip-path: polygon(0 0,100% 0 ,100% 70%, 50% 99% , 0 70%);
