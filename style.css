@@ -3,6 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    margin: 1%;
+}
+
+@media screen and (max-width:900px){
+    body{
+        margin: 2%;
+    }
+}
+
 header{
     background-image:linear-gradient(
         rgba(255, 255, 255, 0.3), 
