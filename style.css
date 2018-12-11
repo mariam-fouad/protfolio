@@ -60,4 +60,15 @@ h1{
     background-color: #cbdde1;
     height: 80vh;
     margin-top: -20vh;
+    padding-top: 20vh;
+}
+.picture{
+    width: 50%;
+}
+
+.picture img{
+    height: 300px;
+    display:block;
+    margin:auto;
+    border-radius: 3px;
 }
