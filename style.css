@@ -130,3 +130,41 @@ h1{
     color: #154239;
     flex-flow: column;
 }
+
+.skill{
+    width: 110px;
+    height: 110px;
+    margin: 100px auto;
+}
+.prec{
+    top: 38px;
+    position: relative;
+    font-size: 30px;
+}
+
+.circle{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #f1eded;
+}
+
+.border{
+    position: relative;
+    text-align: center;
+    width: 110px;
+    height: 110px;
+    border-radius: 100%;
+    margin-bottom: 7px;
+    background-color:#19444c;
+}
+
+.border70{
+    background-image:
+        linear-gradient(162deg, transparent 50%, #19444c 50%),
+        linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
+}
