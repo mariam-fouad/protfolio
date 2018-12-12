@@ -308,3 +308,11 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
         margin: auto;
     }
 }
+
+/* contact-me section */
+.contact-me{
+    padding:5vh 2vh;
+    flex-flow: column;
+    background-color: #e3cece;
+    color: #5a6166;
+}
