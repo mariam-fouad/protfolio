@@ -75,6 +75,9 @@ h1{
 .about-me h2{
     padding: 3%;
 }
+.about-me__content{
+    align-items: center;
+}
 .picture{
     width: 50%;
 }
