@@ -195,3 +195,7 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
         linear-gradient(126deg, transparent 50%, #19444c 50%),
         linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
 }
+
+.other-skills{
+    margin-top: 3%;
+}
