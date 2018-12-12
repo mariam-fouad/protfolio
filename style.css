@@ -350,3 +350,21 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
         margin-right: 0;
     }
 }
+
+/* footer */
+footer{
+    background-color: #411341;
+    color: #e9e0ed;
+    padding: 5%;
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+    display: inline-block;
+    color: #e9e0ed;
+    transition: all 0.4s;
+}
+footer a:hover{
+    transform: translateY(-3px);
+}
