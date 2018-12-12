@@ -368,3 +368,10 @@ footer a{
 footer a:hover{
     transform: translateY(-3px);
 }
+
+@media screen and (max-width:433px){
+    .footer{
+        padding: 2%;
+        font-size: 14px;
+    }
+}
