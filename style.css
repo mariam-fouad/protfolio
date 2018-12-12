@@ -254,3 +254,20 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
 .more-projects{
     margin-top: 2%;
 }
+
+@media screen and (max-width:700px){
+    .projects-cards{
+        flex-flow: column;
+        align-items: center;
+    }
+    .project{
+        width: 50%;
+    }
+    .project:not(:last-child){
+        margin: 0;
+        margin-bottom: 5%;
+    }
+    .more-projects{
+        margin-top: 3%;
+    }
+}
