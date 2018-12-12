@@ -326,3 +326,15 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
 .contact-info__email{
     margin-right: 2%;
 }
+
+.social-media{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    justify-content: center;
+}
+.social-media a{
+    color: #5a6166;
+    font-size: 30px;
+    margin: 2%;
+}
