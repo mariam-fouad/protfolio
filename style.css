@@ -271,3 +271,9 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
         margin-top: 3%;
     }
 }
+
+@media screen and (max-width:460px){
+    .project a figure img{ 
+        height:60px;
+    }
+}
