@@ -122,3 +122,11 @@ h1{
         width: 100%;
     }
 }
+
+/* technical-skills section*/
+.technical-skills{
+    padding:5vh 2vh;
+    background-color: #e1dddd;
+    color: #154239;
+    flex-flow: column;
+}
