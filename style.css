@@ -205,3 +205,12 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
         flex-flow: column;
     }
 }
+
+
+/* Projects section */
+.projects{
+    padding:5vh 2vh;
+    flex-flow: column;
+    background-color: #f0ebba;
+    color: #3c3d43;
+}
