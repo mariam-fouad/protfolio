@@ -64,8 +64,8 @@ h1{
 /* About Me section */
 .about-me{
     background-color: #cbdde1;
-    height: 80vh;
     margin-top: -20vh;
+    padding:5vh 2vh;
     padding-top: 20vh;
     flex-flow: column;
     color: #402f41;
@@ -99,4 +99,26 @@ h1{
 .brief-intro p{
     margin-top: 4%;
     width: 80%;
+}
+
+
+@media screen and (max-width: 730px){
+    .about-me__content{
+        flex-flow: column;
+    }
+    .picture{
+        width: 100%;
+        margin-bottom: 7%;
+    }
+    .picture img{
+        height: 200px;
+    }
+    .brief-intro{
+        width: 100%;
+        text-align: center;
+    }
+    .brief-intro p{
+        margin-top: 6%;
+        width: 100%;
+    }
 }
