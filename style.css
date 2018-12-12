@@ -238,7 +238,7 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
 .project:not(:last-child){
     margin-right: 5%;
 }
-.project a{
+.project a , .projects a {
     text-decoration: none;
     color: #332262;
 }
@@ -249,4 +249,8 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
     height:100px;
     width: auto;
     margin-bottom: 3%;
+}
+
+.more-projects{
+    margin-top: 2%;
 }
