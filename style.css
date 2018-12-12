@@ -93,3 +93,9 @@ h1{
     text-align: left;
     width: 70%;
 }
+.brief-intro ol{
+    padding: 3px;
+}
+.brief-intro p{
+    margin-top: 6%;
+}
