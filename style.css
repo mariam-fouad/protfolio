@@ -134,7 +134,7 @@ h1{
 .skill{
     width: 110px;
     height: 110px;
-    margin: 100px auto;
+    margin: 30px auto;
 }
 .prec{
     top: 38px;
@@ -166,5 +166,29 @@ h1{
 .border70{
     background-image:
         linear-gradient(162deg, transparent 50%, #19444c 50%),
+        linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
+}
+
+.border75{
+    background-image:
+        linear-gradient(180deg, transparent 50%, #19444c 50%),
+        linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
+}
+
+.border80{
+    background-image:
+        linear-gradient(198deg, transparent 50%, #19444c 50%),
+        linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
+}
+
+.border65{
+    background-image:
+        linear-gradient(144deg, transparent 50%, #19444c 50%),
+        linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
+}
+
+.border60{
+    background-image:
+        linear-gradient(126deg, transparent 50%, #19444c 50%),
         linear-gradient(90deg, #9dbbc1 50%, transparent 50%);
 }
