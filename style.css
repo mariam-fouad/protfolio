@@ -283,3 +283,10 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
         height:60px;
     }
 }
+
+@media screen and (min-width:1014px){
+    .projects-cards{
+        width: 1000px;
+        margin: auto;
+    }
+}
