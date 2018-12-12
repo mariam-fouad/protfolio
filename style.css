@@ -85,3 +85,7 @@ h1{
     margin:auto;
     border-radius: 3px;
 }
+
+.brief-intro{
+    text-align: left;
+}
