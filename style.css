@@ -338,3 +338,15 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
     font-size: 30px;
     margin: 2%;
 }
+
+@media screen and (max-width:537px){
+    .contact-info{
+        width: 100%;
+        flex-flow: column;
+        justify-content: center;
+    }
+    .contact-info__email{
+        margin-bottom: 3%;
+        margin-right: 0;
+    }
+}
