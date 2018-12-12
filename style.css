@@ -316,3 +316,13 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
     background-color: #e3cece;
     color: #5a6166;
 }
+
+.contact-info{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    justify-content: center;
+}
+.contact-info__email{
+    margin-right: 2%;
+}
