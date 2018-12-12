@@ -206,6 +206,12 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
     }
 }
 
+@media screen and (min-width:1014px){
+    .skills{
+        width: 900px;
+        margin: auto;
+    }
+}
 
 /* Projects section */
 .projects{
