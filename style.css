@@ -162,7 +162,10 @@ h1{
     margin-bottom: 7px;
     background-color:#19444c;
 }
-
+/* 
+if the precentage < 90 (90 - precentage and the color is #9dbbc1)
+if the precentage > 90 (precentage-90 and the color is #19444c)
+ */
 .border70{
     background-image:
         linear-gradient(162deg, transparent 50%, #19444c 50%),
