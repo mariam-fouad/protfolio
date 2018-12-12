@@ -71,6 +71,10 @@ h1{
     color: #402f41;
 
 }
+
+.about-me h2{
+    padding: 3%;
+}
 .picture{
     width: 50%;
 }
