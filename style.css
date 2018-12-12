@@ -337,7 +337,14 @@ if the precentage > 90 (precentage-90 and the color is #19444c)
     color: #5a6166;
     font-size: 30px;
     margin: 2%;
+    transition: all 0.4s;
 }
+
+.social-media a:hover{
+    color: #694d69;
+    transform: rotate(15deg);
+}
+
 
 @media screen and (max-width:537px){
     .contact-info{
